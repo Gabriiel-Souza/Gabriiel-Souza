@@ -1,13 +1,8 @@
 ### Hi there 👋
 
- <div>
-  <a href="https://github.com/Gabriiel-Souza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriiel-souza&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriiel-souza&layout=compact&langs_count=7&theme=blueberry"/>
-</div>
-  
-  
-  ### What i'm studying 📚
+Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS developer at Apple Developer Academy / UCB.
+
+### What i'm studying 📚
   <p align="left">
     <!--
   <a
@@ -45,3 +40,9 @@
   </a>
 -->
 </p>
+
+ <div>
+  <a href="https://github.com/Gabriiel-Souza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriiel-souza&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriiel-souza&layout=compact&langs_count=7&theme=blueberry"/>
+</div>
