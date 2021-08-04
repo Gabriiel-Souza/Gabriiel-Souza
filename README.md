@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello, i'm Gabriel Souza 👋
 
 Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS developer at Apple Developer Academy / UCB.
 
@@ -45,4 +45,18 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
   <a href="https://github.com/Gabriiel-Souza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriiel-souza&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriiel-souza&layout=compact&langs_count=7&theme=blueberry"/>
+    </a>
 </div>
+
+### You can find me on:
+
+<div>
+  <a href="https://www.linkedin.com/in/gabrielsouzaaraujo/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
+      width="40"
+      height="40"
+    />
+  </a>
+  </div>
+ 
