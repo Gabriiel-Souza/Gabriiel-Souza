@@ -4,11 +4,26 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
 
 ### What i'm studying 📚
   <p align="left">
-    <!--
+   <a href="https://swift.org/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"
+      width="40"
+      height="40"
+    />
+  </a>
+  <img
+      src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+      width="40"
+      height="40"
+    />
+   <img
+      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+      width="40"
+      height="40"
+    />
+  <!--
   <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       width="40"
@@ -16,13 +31,6 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
     />
   </a>
   -->
-  <a href="https://swift.org/" target="_blank">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.mysql.com" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
@@ -30,6 +38,7 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
       height="40"
     />
   </a>
+  
   <!--
     <a href="https://reactjs.org/" target="_blank">
     <img
