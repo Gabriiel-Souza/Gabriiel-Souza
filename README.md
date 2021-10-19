@@ -67,10 +67,6 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
       height="60"
     />
   </a>
-  <center>
-    <p>Magic Game deals</p>
-    </center>
-  
 </div>
 
 ### My iOS Games :
@@ -82,11 +78,7 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
       width="60"
       height="60"
     />
-  </a>
-  <center>
-    <p>Darko</p>
-    </center>
-  
+  </a>  
 </div>
 
 
