@@ -57,7 +57,7 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
     </a>
 </div>
 
-### My iOS Apps :
+###  My iOS Apps:
 
 <div>
   <a href="https://apps.apple.com/br/app/magic-game-deals/id1586027812" target="_blank">
@@ -69,7 +69,7 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
   </a>
 </div>
 
-### My iOS Games :
+###  My iOS Games:
 
 <div>
   <a href="https://apps.apple.com/app/darko/id1577113774" target="_blank">
