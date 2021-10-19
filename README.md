@@ -21,7 +21,6 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
       width="40"
       height="40"
     />
-  <!--
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
@@ -30,7 +29,6 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
       height="40"
     />
   </a>
-  -->
   <a href="https://www.mysql.com" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
@@ -66,6 +64,7 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
       width="60"
       height="60"
     />
+		<p>🇺🇸</p>
   </a>
 </div>
 
@@ -78,7 +77,13 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
       width="60"
       height="60"
     />
-  </a>  
+  </a>
+	<div>
+	<a href="https://apps.apple.com/app/darko/id1577113774" target="_blank">🇺🇸</a>
+	<a href="https://apps.apple.com/br/app/darko/id1577113774" target="_blank">🇧🇷</a>
+	<a href="https://apps.apple.com/es/app/darko/id1577113774" target="_blank">🇪🇸</a>
+	</div>
+	
 </div>
 
 
@@ -88,8 +93,8 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
   <a href="https://www.linkedin.com/in/gabrielsouzaaraujo/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
 </div>
