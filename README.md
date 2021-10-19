@@ -1,3 +1,4 @@
+
 ## Hello, i'm Gabriel Souza 👋
 
 Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS developer at Apple Developer Academy / UCB.
@@ -55,6 +56,7 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
     </a>
 </div>
 
+
 ### My iOS Apps:
 
 <div>
@@ -64,7 +66,7 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
       width="60"
       height="60"
     />
-		<p>🇺🇸</p>
+      <p>🇺🇸</p>
   </a>
 </div>
 
@@ -98,4 +100,3 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
     />
   </a>
 </div>
- 
