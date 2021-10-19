@@ -52,10 +52,43 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
 
  <div>
   <a href="https://github.com/Gabriiel-Souza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriiel-souza&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriiel-souza&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriiel-souza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriiel-souza&layout=compact&langs_count=7&theme=tokyonight"/>
     </a>
 </div>
+
+### My iOS Apps :
+
+<div>
+  <a href="https://apps.apple.com/br/app/magic-game-deals/id1586027812" target="_blank">
+    <img
+      src="https://github.com/Gabriiel-Souza/app-icons/blob/main/icons/magicGameDeals.png"
+      width="60"
+      height="60"
+    />
+  </a>
+  <center>
+    <p>Magic Game deals</p>
+    </center>
+  
+</div>
+
+### My iOS Games :
+
+<div>
+  <a href="https://apps.apple.com/app/darko/id1577113774" target="_blank">
+    <img
+      src="https://github.com/Gabriiel-Souza/app-icons/blob/main/icons/darko.png"
+      width="60"
+      height="60"
+    />
+  </a>
+  <center>
+    <p>Darko</p>
+    </center>
+  
+</div>
+
 
 ### You can find me on:
 
@@ -67,5 +100,5 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
       height="40"
     />
   </a>
-  </div>
+</div>
  
