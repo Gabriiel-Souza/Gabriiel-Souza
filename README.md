@@ -64,36 +64,34 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
 
 
 ### My iOS Apps:
-
-<div>
-  <a href="https://apps.apple.com/br/app/magic-game-deals/id1586027812" target="_blank">
-    <img
-      src="https://github.com/Gabriiel-Souza/app-icons/blob/main/icons/magicGameDeals.png"
-      width="60"
-      height="60"
-    />
-      <p>🇺🇸</p>
-  </a>
-</div>
+<a href="https://apps.apple.com/app/magic-game-deals/id1586027812" target="_blank">
+  <img
+    src="https://github.com/Gabriiel-Souza/app-icons/blob/main/icons/magicGameDeals.png"
+    width="60"
+    height="60"
+  />
+</a>
+<a href="https://apps.apple.com/app/hopet/id1591295577" target="_blank">
+  <img
+    src="https://github.com/Gabriiel-Souza/app-icons/blob/main/icons/hopet.png"
+    width="60"
+    height="60"
+  />
+</a>
 
 ### My iOS Games:
 
-<div>
-  <a href="https://apps.apple.com/app/darko/id1577113774" target="_blank">
-    <img
-      src="https://github.com/Gabriiel-Souza/app-icons/blob/main/icons/darko.png"
-      width="60"
-      height="60"
-    />
-  </a>
-	<div>
-	<a href="https://apps.apple.com/app/darko/id1577113774" target="_blank">🇺🇸</a>
-	<a href="https://apps.apple.com/br/app/darko/id1577113774" target="_blank">🇧🇷</a>
-	<a href="https://apps.apple.com/es/app/darko/id1577113774" target="_blank">🇪🇸</a>
-	</div>
-	
-</div>
+<a href="https://apps.apple.com/app/darko/id1577113774" target="_blank">
+  <img
+    src="https://github.com/Gabriiel-Souza/app-icons/blob/main/icons/darko.png"
+    width="60"
+    height="60"
+  />
+</a>
 
+<a href="https://apps.apple.com/app/darko/id1577113774" target="_blank">🇺🇸</a>
+<a href="https://apps.apple.com/br/app/darko/id1577113774" target="_blank">🇧🇷</a>
+<a href="https://apps.apple.com/es/app/darko/id1577113774" target="_blank">🇪🇸</a>
 
 ### You can find me on:
 
