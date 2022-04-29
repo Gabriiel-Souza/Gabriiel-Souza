@@ -88,10 +88,13 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
     height="60"
   />
 </a>
-
-<a href="https://apps.apple.com/app/darko/id1577113774" target="_blank">🇺🇸</a>
-<a href="https://apps.apple.com/br/app/darko/id1577113774" target="_blank">🇧🇷</a>
-<a href="https://apps.apple.com/es/app/darko/id1577113774" target="_blank">🇪🇸</a>
+<a href="https://apps.apple.com/br/app/beat-or-die/id1600702845" target="_blank">
+  <img
+    src="https://github.com/Gabriiel-Souza/app-icons/blob/main/icons/beatOrDie.png"
+    width="60"
+    height="60"
+  />
+</a>
 
 ### You can find me on:
 
