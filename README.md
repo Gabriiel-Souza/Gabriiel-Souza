@@ -80,7 +80,6 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
 </a>
 
 ### My iOS Games:
-
 <a href="https://apps.apple.com/app/darko/id1577113774" target="_blank">
   <img
     src="https://github.com/Gabriiel-Souza/app-icons/blob/main/icons/darko.png"
@@ -97,7 +96,6 @@ Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS de
 </a>
 
 ### You can find me on:
-
 <div>
   <a href="https://www.linkedin.com/in/gabrielsouzaaraujo/" target="_blank">
     <img
