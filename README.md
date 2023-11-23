@@ -1,7 +1,7 @@
 
 ## Hello, i'm Gabriel Souza 👋
 
-Hi! I'm a Computer Science student at Catholic University of Brasilia and iOS developer at Apple Developer Academy / UCB.
+Hi! I have a degree in Computer Science from the Catholic University of Brasilia and I've been working as an iOS developer for 3 years.
 
 ### What i'm studying 📚
   <p align="left">
